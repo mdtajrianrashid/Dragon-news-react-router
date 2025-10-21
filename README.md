@@ -1,2 +1,2 @@
 **Netlify Live Link:**
-https://dragon-news-with-router.netlify.app/category/1
+https://dragon-news-react-router.netlify.app/category/1
